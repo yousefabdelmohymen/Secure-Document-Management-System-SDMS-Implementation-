@@ -49,16 +49,7 @@ pip install flask flask-bcrypt flask-sqlalchemy flask-session \
 
 1. **Clone the repository**
 
-   ```bash
-   git clone https://github.com/your-username/secure-docs.git
-   cd secure-docs
-   ```
-
 2. **Install dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 3. **Setup SSL and RSA certificates**
    Place the following files in the root directory:
